@@ -74,7 +74,7 @@ string ari(string s){
   case 11:
     return "Eleventh Grade";
   case 12:
-    return "Twelfth grade"
+    return "Twelfth grade";
   case 13:
       return "College student"; 
   case 14:
